@@ -1,0 +1,18 @@
+body {
+  max-width: 48rem;
+  margin: 3rem auto;
+  padding: 0 1.5rem;
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+}
+button {
+  margin: 0 1rem 1rem 0;
+  padding: 0.6rem 1rem;
+  cursor: pointer;
+}
+pre {
+  padding: 1rem;
+  background: #f3f4f6;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
